@@ -17,6 +17,7 @@ Learn python from basics to advanced
 
 > workon env_folder 
 ```
+
 *** 
 ## Concepts to learn in python basics
 > Data Structures
